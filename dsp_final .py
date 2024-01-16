@@ -186,5 +186,5 @@ plt.gca().spines[['top', 'right',]].set_visible(False)
 https://banno-clinic.biz/university-student-sleep/#:~:text=この統計データから計算,分と概算されます%E3%80%82
 (参照:2024-01-14) (更新:2023-01-16)
 
-協力した人:横山広樹(学籍番号:2322106)
+協力者:横山広樹(学籍番号:2322106)
 """
